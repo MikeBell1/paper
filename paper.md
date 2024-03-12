@@ -15,3 +15,6 @@ First, we tried a larger filer size.
 
 # Simulations
 Did some computer simulations using a modelled flow module.
+
+# Methods
+We tried lots of things. SOme were logical. Some were not.
