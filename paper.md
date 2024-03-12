@@ -5,4 +5,8 @@ Flow module issues
 Mike Bell
 
 # Introduction
-We have had issues with the flow module since it was swapped. 
+We have had issues with the flow module since it was replaced in February.
+
+We have been in contact with LI-COR technical support.
+
+ 
