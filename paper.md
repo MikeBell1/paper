@@ -21,3 +21,6 @@ We tried lots of things. SOme were logical. Some were not.
 
 # Results
 Nothing seemed to work
+
+# Figures
+Figures go in their own section of a draft paper.
