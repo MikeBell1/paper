@@ -2,8 +2,8 @@
 Flow module issues on the tower with simulations
 
 # Author
-Mike Bell
 Nigel Nigelson
+Mike Bell
 
 # Introduction
 We have had issues with the flow module since it was replaced in February.
