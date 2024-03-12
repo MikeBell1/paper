@@ -1,8 +1,9 @@
 # Title
-Flow module issues
+Simulations of low module issues
 
 # Author
 Mike Bell
+Nigle Nigelson
 
 # Introduction
 We have had issues with the flow module since it was replaced in February.
