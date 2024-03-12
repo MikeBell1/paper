@@ -2,8 +2,8 @@
 Flow module issues on the tower with simulations
 
 # Author
-Mike Bell
-Nigel Nigelson
+Mike Bell, Forest Research
+Nigel Nigelson, Nigeltown
 
 # Introduction
 We have had issues with the flow module since it was replaced in February.
@@ -27,3 +27,4 @@ Figures go in their own section of a draft paper.
 
 # Conclusions
 We have made some progress.
+
