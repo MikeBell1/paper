@@ -12,3 +12,6 @@ We have been in contact with LI-COR technical support, and have tried various so
 
 # Troubleshooting
 First, we tried a larger filer size.
+
+# Simulations
+Did some computer simulations using a modelled flow module.
